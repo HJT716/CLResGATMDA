@@ -1,6 +1,6 @@
-# ResCLGATEns
+# CLResGATMDA
 
-ResCLGATEns
+CLResGATMDA
 Code and Datasets for "An Improved Graph Attention Network with Residual Connections for Accurate Disease-Microorganism Association Prediction"
 Data description
 association: Microbe-disease association matrix: the HMDAD dataset contains 11,388 associations between 292 microbes and 39 diseases, and the Disbiome dataset contains 229,336 associations between 1,052 microbes and 218 diseases.
