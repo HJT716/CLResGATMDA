@@ -1,10 +1,10 @@
 ## CLResGATMDA
 
-Code and Datasets for "An Improved Graph Attention Network with Residual Connections for Accurate Disease-Microorganism Association Prediction"
+Code and Datasets for "An improved graph attention network with residual connections for microbe-disease association prediction"
 
 ### Developers
 
-Jieteng Hou (hjt568124@gmail.com), Henan Agricultural University and Hefei Wang (mxiao5028@gmail.com) College of Forestry, Henan Agricultural University
+Jieteng Hou (hjt568124@gmail.com) and Hefei Wang (mxiao5028@gmail.com) College of Forestry, Henan Agricultural University
 ### Datasets
 
 HMDAD/adj.txt:Indices corresponding to the known microbe-disease associations within the dataset of HMDAD that records validated microbe-disease correlations
